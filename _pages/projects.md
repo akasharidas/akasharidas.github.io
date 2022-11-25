@@ -8,7 +8,7 @@ nav_order: 1
 ---
 
 <h2>AI Art</h2>
-Some artwork I(?) created with generative AI tools like <a href="https://github.com/alembics/disco-diffusion">Disco Diffusion</a> and <a href="https://github.com/mikaelalafriz/lucid-sonic-dreams">Lucid Sonic Dreams</a> plus Photoshop. Work in progress...
+Some artwork I (?) created with generative AI tools like <a href="https://github.com/alembics/disco-diffusion">Disco Diffusion</a> and <a href="https://github.com/mikaelalafriz/lucid-sonic-dreams">Lucid Sonic Dreams</a> plus Photoshop. Work in progress...
 <br>
 <br>
 
@@ -50,7 +50,7 @@ Some artwork I(?) created with generative AI tools like <a href="https://github.
           <source src="{{site.baseurl}}/assets/vid/to_the_moon.mp4" type="video/mp4">
         </video>
       </center>
-      <figcaption>Psychedelic visuals synchronized with music, made by making audio-driven pertubations to the latent space of a pretrained StyleGAN</figcaption>
+      <figcaption>Psychedelic visuals synchronized with music, made by adding audio-driven pertubations in the latent space of a pretrained StyleGAN</figcaption>
     </figure>
 </div>
 </div>
@@ -125,7 +125,7 @@ Some artwork I(?) created with generative AI tools like <a href="https://github.
     <img class="img-fluid z-depth-1 rounded" src="{{site.baseurl}}/assets/img/simple_scene.png">
   </div>
   <div class="col-sm-8">
-    I followed the <a href="https://raytracing.github.io/books/RayTracingInOneWeekend.html">Ray Tracing in One Weekend book</a>, to learn the basics of ray-traced rendering and pick up C++.
+    I followed the <a href="https://raytracing.github.io/books/RayTracingInOneWeekend.html">Ray Tracing in One Weekend book</a>, to learn the basics of ray-traced rendering and to pick up C++.
   </div>
 </div>
 </div>
