@@ -1008,7 +1008,7 @@
     if (!dom.querySelector('meta[name=viewport]')) {
       const meta = dom.createElement('meta');
       meta.setAttribute('name', 'viewport');
-      meta.setAttribute('content', 'width=device-width, initial-scale=1');
+      meta.setAttribute('content', 'width=1024 initial_scale=0.5');
       head.appendChild(meta);
     }
   }
