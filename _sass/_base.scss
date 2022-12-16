@@ -696,3 +696,18 @@ html.transition *:after {
     }
   }
 }
+
+
+@media (max-width:800px) {
+  .publications{
+    h2.year{
+    color: var(--global-divider-color);
+    border-top: 1px solid var(--global-divider-color);
+    padding-top: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    text-align: right;
+    font-size: 1rem;
+  }
+}
+}
