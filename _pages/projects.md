@@ -7,6 +7,99 @@ nav: true
 nav_order: 1
 ---
 
+<h2>Course Projects</h2>
+<br>
+
+<div class="card mt-3">
+<div class="p-3">
+<div>
+  <div class="row">
+  <div class="col-sm-2">
+        <img class="img-fluid z-depth-1 rounded" src="{{site.baseurl}}/assets/img/ADMMDiffusionPoster.png">
+  </div>
+  <div class="col-sm-10">
+    <b><a href="https://www.cs.toronto.edu/~lindell/teaching/2529/">CSC2529: Computational Imaging</a></b><br>
+    <b>Deconvolution using ADMM with Diffusion Denoising Prior</b><br>
+    <br>
+    <a href="{{site.baseurl}}/assets/pdf/ADMMDiffusionReport.pdf" style="border: 1px solid black; padding: 5px 20px;" class="btn btn-sm z-depth-1" role="button">Paper</a>
+    <a href="{{site.baseurl}}/assets/pdf/ADMMDiffusionPoster.pdf" style="border: 1px solid black; padding: 5px 20px;" class="btn btn-sm z-depth-1" role="button">Poster</a>
+    <a href="https://github.com/ZakariaPZ/ADMM-Deconvolution-with-Diffusion-Prior" style="border: 1px solid black; padding: 5px 20px;" class="btn btn-sm z-depth-1" role="button">Code</a>
+  </div>
+</div>
+</div>
+</div>
+</div>
+<br>
+
+
+<div class="card mt-3">
+<div class="p-3">
+<div>
+  <div class="row">
+  <div class="col-sm-2">
+    <img class="img-fluid z-depth-1 rounded" src="{{site.baseurl}}/assets/img/dadagger.jpg">
+  </div>
+  <div class="col-sm-10">
+    <b><a href="http://www.cs.toronto.edu/~florian/courses/csc2626w22/">CSC2626: Imitation Learning for Robotics</a></b><br>
+    <b>DADAgger: Imitation Learning with Disagreement-Augmented Dataset Aggregation</b><br>
+    <br>
+    <a href="https://arxiv.org/abs/2301.01348" style="border: 1px solid black; padding: 5px 20px;" class="btn btn-sm z-depth-1" role="button">Paper</a>
+    <a href="https://github.com/Samarendra109/DADAgger" style="border: 1px solid black; padding: 5px 20px;" class="btn btn-sm z-depth-1" role="button">Code</a>
+  </div>
+</div>
+</div>
+</div>
+</div>
+<br>
+
+
+<div class="card mt-3">
+<div class="p-3">
+<div>
+  <div class="row">
+  <div class="col-sm-2">
+    <img class="img-fluid z-depth-1 rounded" src="{{site.baseurl}}/assets/img/mri.png">
+  </div>
+  <div class="col-sm-10">
+    <b><a href="https://onlinecourses.nptel.ac.in/noc22_bt34/preview">ED6001: Medical Image Analysis</a></b><br>
+    <b>Denoising of Brain Magnetic Resonance Images</b><br>
+    <br>
+    <a href="https://drive.google.com/file/d/12a2VmmJqDQzk_JEyRRFoqBJWfIh8dHlS/view?usp=sharing" style="border: 1px solid black; padding: 5px 20px;" class="btn btn-sm z-depth-1" role="button">Paper</a>
+    <a href="https://github.com/VimalMollyn/ED6001-Term-Project" style="border: 1px solid black; padding: 5px 20px;" class="btn btn-sm z-depth-1" role="button">Code</a>
+  </div>
+</div>
+</div>
+</div>
+</div>
+<br>
+
+
+<div class="card mt-3">
+<div class="p-3">
+<div>
+  <div class="row">
+  <div class="col-sm-2">
+    <img class="img-fluid z-depth-1 rounded" src="{{site.baseurl}}/assets/img/sysdl.png">
+  </div>
+  <div class="col-sm-10">
+    <b><a href="http://www.cse.iitm.ac.in/course_details.php?arg=MTQ0">CS6886: Systems Engineering for Deep Learning</a></b><br>
+    <b>Energy Break‑Even of Neural Architecture Search</b><br>
+    <br>
+    <a href="https://drive.google.com/file/d/1wQGkxHc6eEq30AnLyVyu236q-YV0Blqo/view?usp=sharing" style="border: 1px solid black; padding: 5px 20px;" class="btn btn-sm z-depth-1" role="button">Report</a>
+  </div>
+</div>
+</div>
+</div>
+</div>
+<br>
+
+<!-- ----------------------------------------------------------------------------- -->
+<br>
+<hr>
+<br>
+<!-- ----------------------------------------------------------------------------- -->
+
+
 <h2>AI Art</h2>
 Some artwork I (?) created with generative AI tools like <a href="https://github.com/alembics/disco-diffusion">Disco Diffusion</a> and <a href="https://github.com/mikaelalafriz/lucid-sonic-dreams">Lucid Sonic Dreams</a> plus Photoshop. Work in progress...
 <br>
@@ -76,58 +169,6 @@ Some artwork I (?) created with generative AI tools like <a href="https://github
 <br>
 <!-- ----------------------------------------------------------------------------- -->
 
-<h2>Course Projects</h2>
-<br>
-
-<div class="card mt-3">
-<div class="p-3">
-<div>
-  <div class="row">
-  <div class="col-sm-2">
-        <img class="img-fluid z-depth-1 rounded" src="{{site.baseurl}}/assets/img/ADMMDiffusionPoster.png">
-  </div>
-  <div class="col-sm-10">
-    <b><a href="https://www.cs.toronto.edu/~lindell/teaching/2529/">CSC2529: Computational Imaging</a></b><br>
-    <b>Deconvolution using ADMM with Diffusion Denoising Prior</b><br>
-    <br>
-    <a href="{{site.baseurl}}/assets/pdf/ADMMDiffusionReport.pdf" style="border: 1px solid black; padding: 5px 20px;" class="btn btn-sm z-depth-1" role="button">Paper</a>
-    <a href="{{site.baseurl}}/assets/pdf/ADMMDiffusionPoster.pdf" style="border: 1px solid black; padding: 5px 20px;" class="btn btn-sm z-depth-1" role="button">Poster</a>
-    <a href="https://github.com/ZakariaPZ/ADMM-Deconvolution-with-Diffusion-Prior" style="border: 1px solid black; padding: 5px 20px;" class="btn btn-sm z-depth-1" role="button">Code</a>
-  </div>
-</div>
-</div>
-</div>
-</div>
-<br>
-
-
-<div class="card mt-3">
-<div class="p-3">
-<div>
-  <div class="row">
-  <div class="col-sm-2">
-    <img class="img-fluid z-depth-1 rounded" src="{{site.baseurl}}/assets/img/dadagger.jpg">
-  </div>
-  <div class="col-sm-10">
-    <b><a href="http://www.cs.toronto.edu/~florian/courses/csc2626w22/">CSC2626: Imitation Learning for Robotics</a></b><br>
-    <b>DADAgger: Imitation Learning with Disagreement-Augmented Dataset Aggregation</b><br>
-    <br>
-    <a href="{{site.baseurl}}/assets/pdf/DADAgger.pdf" style="border: 1px solid black; padding: 5px 20px;" class="btn btn-sm z-depth-1" role="button">Paper</a>
-    <a href="https://github.com/Samarendra109/DADAgger" style="border: 1px solid black; padding: 5px 20px;" class="btn btn-sm z-depth-1" role="button">Code</a>
-  </div>
-</div>
-</div>
-</div>
-</div>
-<br>
-
-
-
-<!-- ----------------------------------------------------------------------------- -->
-<br>
-<hr>
-<br>
-<!-- ----------------------------------------------------------------------------- -->
 
 <h2>I did \(x\) to learn \(y\)...</h2>
 <p>According to the <a href="https://towardsdatascience.com/want-a-data-science-job-use-the-weekend-project-principle-to-get-it-a86ba2da514f">Weekend Project Principle</a>, a great way to build a broad skillset is to work on small-scale self-defined projects related to one's interests, usually over short timeframes such as a weekend. In my spare time, I enjoy tinkering with new tools and technologies, and aim to build a minimal working prototype \(x\) with the goal of learning \(y\).</p>

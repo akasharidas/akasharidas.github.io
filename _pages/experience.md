@@ -20,7 +20,8 @@ years: [2022, 2021]
     <h2 class="year">2017 - 2022</h2>
     <b>Indian Institute of Technology Madras 🇮🇳</b> <br>
     Interdisciplinary Dual Degree in Aerospace Engineering and Data Science <br>
-    <b>CGPA</b>: 9.26 / 10.00  
+    <b>CGPA</b>: 9.26 / 10.00, 
+    <a href="{{site.baseurl}}/assets/pdf/DDP.pdf" style="border: 1px solid black; padding: 5px 20px;" class="btn btn-sm z-depth-1" role="button">Thesis</a>
 
 </div>
 </div>
@@ -55,7 +56,7 @@ While at IIT Madras, I worked extensively with <a href="https://home.iitm.ac.in/
 <div class="publications">
     <h2 class="year">Summer 2021</h2>
     <b>Anheuser-Busch InBev 🍺🍻</b> <br>
-    Data Scientist <br>
+    Data Scientist Intern<br>
         <small>
         <ul>
             <li>Interned in the marketing analytics team at the <a href="https://www.ab-inbev.com/our-brands/">world's largest beer company</a>.</li>
@@ -67,7 +68,7 @@ While at IIT Madras, I worked extensively with <a href="https://home.iitm.ac.in/
 
     <h2 class="year">Summer 2020</h2>
     <b>unMazer.ai 📈</b> <br>
-    Data Scientist and Web Developer<br>
+    Deep Learning and Product Development Intern<br>
         <small>
         <ul>
             <li>Built a deep learning based tool to analyze, detect and flag various features in CCTV footage of road traffic. </li>
@@ -99,8 +100,8 @@ While at IIT Madras, I worked extensively with <a href="https://home.iitm.ac.in/
 <div class="p-3">
 <h2>Teaching</h2>
 <div class="publications">
-    <h2 class="year">Fall 2022</h2>
-    <b>Introduction to Computer Programming</b>, Undergrad course at University of Toronto <br>
+    <h2 class="year">Fall 2022 and Winter 2022</h2>
+    <b>Introduction to Computer Programming</b>, University of Toronto <br>
     Teaching Assistant <br>
 
     <h2 class="year">Fall 2021</h2>
@@ -111,6 +112,25 @@ While at IIT Madras, I worked extensively with <a href="https://home.iitm.ac.in/
     <h2 class="year">Fall 2021</h2>
     <b>Propulsion 1</b>, Undergrad course at IIT Madras <br>
     Head Teaching Assistant <br>
+
+    
+</div>
+</div>
+</div>
+<br>
+
+
+<div class="card mt-3">
+<div class="p-3">
+<h2>Miscellaneous Achievements</h2>
+<div class="publications">
+    <h2 class="year">Jan 2018</h2>
+    <b>Guest of the Prime Minister at the Republic Day Parade</b><br>
+    Awarded for achieving a top 3 score in the national higher secondary exam <br>
+
+    <h2 class="year">May 2017</h2>
+    <b>Joint Entrance Examination</b> <br>
+    Ranked in the top 0.2% (amongst 1,200,000 candidates) in India’s toughest engineering entrance exam <br>
 
     
 </div>
