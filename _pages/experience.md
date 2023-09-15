@@ -15,7 +15,7 @@ years: [2022, 2021]
     <h2 class="year">2022 - present</h2>
     <b>University of Toronto 🇨🇦</b> <br>
     MSc. in Applied Computing (Concentration: Artificial Intelligence) <br>
-    <!-- <b>CGPA</b>: 9.27 / 10.00   -->
+    <b>GPA</b>: 4.0 / 4.0  
 
     <h2 class="year">2017 - 2022</h2>
     <b>Indian Institute of Technology Madras 🇮🇳</b> <br>
@@ -29,33 +29,35 @@ years: [2022, 2021]
 <br>
 
 
-
 <div class="card mt-3">
 <div class="p-3">
-<h2>Research</h2>
-
-While at IIT Madras, I worked extensively with <a href="https://home.iitm.ac.in/nrv/">Prof. Nagabhushana Rao Vadlamani</a> and <a href="https://yukiminamoto.com/">Prof. Yuki Minamoto</a> on machine learning for fluid mechanics and computational fluid dynamics (CFD). 
-
+<h2>Experience</h2>
 <div class="publications">
+    <h2 class="year">May 2023 - Dec 2023</h2>
+    <b>Advanced Micro Devices (AMD) 📱🎮</b> <br>
+    Applied Research Intern, Machine Learning and 3D Computer Vision<br>
+        <small>
+        <ul>
+            <li>Built an automatic system to produce high-fidelity animatable 3D human avatars from a consumer laptop webcam. </li>
+            <li>Developed a novel method based on GANs for photorealistic texture synthesis, 3D morphable models, landmark detection, face recognition embeddings and differentiable rendering in PyTorch3D. </li>
+            <li>Achieved ~45% higher perceptual quality and ~25% better lighting symmetry compared to existing literature when applied to low-quality webcams, while also satisfying latency constraints for edge devices. </li>
+        </ul>
+        </small>
 
-{%- for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
-{% endfor %}
+    <h2 class="year">Jul 2020 - Jul 2022</h2>
+    <b>Indian Institute of Technology Madras 🦌</b> <br>
+    Student Researcher, Deep Learning for Fluid Mechanics and CFD<br>
+        <small>
+        <ul>
+            <li>Worked on developing fast and accurate AI algorithms for fluid simulations. </li>
+            <li>Trained a ConvNet with physics-based components to correct errors in low-precision simulations. </li>
+            <li>Published two first-author research papers and presented at a conference. </li>
+            <li>Demonstrated improved computational efficiency and ~45% error reduction: [<a href="https://www.sciencedirect.com/science/article/pii/S2666352X22000243">Paper</a>] </li>
+        </ul>
+        </small>
 
-</div>
-</div>
-</div>
-<br>
-
-
-
-<div class="card mt-3">
-<div class="p-3">
-<h2>Internships</h2>
-<div class="publications">
     <h2 class="year">Summer 2021</h2>
-    <b>Anheuser-Busch InBev 🍺🍻</b> <br>
+    <b>Anheuser-Busch InBev 🍺</b> <br>
     Data Scientist Intern<br>
         <small>
         <ul>
@@ -68,11 +70,12 @@ While at IIT Madras, I worked extensively with <a href="https://home.iitm.ac.in/
 
     <h2 class="year">Summer 2020</h2>
     <b>unMazer.ai 📈</b> <br>
-    Deep Learning and Product Development Intern<br>
+    Intern, Computer Vision and Product Development<br>
         <small>
         <ul>
-            <li>Built a deep learning based tool to analyze, detect and flag various features in CCTV footage of road traffic. </li>
-            <li>Contributed significantly towards building three company products in their early stage. </li>
+            <li>Event detection using a custom CNN+LSTM network and object detection using YOLOv4 in CCTV road footage. </li>
+            <li>Built a procotoring tool to detect cheating in online exams using eye tracking models and OpenCV. </li>
+            <li>Instrumental in building three AI-based minimum viable products (MVPs) during the company’s initial phase. </li>
             <li>Blog post:  <a href="https://medium.com/calam-in/leveraging-ai-to-reduce-road-fatalities-a10eec2e505c"> [Leveraging AI to Reduce Road Fatalities]</a> </li>
         </ul>
         </small>
@@ -94,6 +97,22 @@ While at IIT Madras, I worked extensively with <a href="https://home.iitm.ac.in/
 </div>
 <br>
 
+
+<div class="card mt-3">
+<div class="p-3">
+<h2>Research Publications</h2>
+
+<div class="publications">
+
+{%- for y in page.years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f papers -q @*[year={{y}}]* %}
+{% endfor %}
+
+</div>
+</div>
+</div>
+<br>
 
 
 <div class="card mt-3">
