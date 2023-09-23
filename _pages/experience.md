@@ -12,7 +12,7 @@ years: [2022, 2021]
 <div class="p-3">
 <h2>Education</h2>
 <div class="publications">
-    <h2 class="year">2022 - present</h2>
+    <h2 class="year">2022 - 2023</h2>
     <b>University of Toronto 🇨🇦</b> <br>
     MSc. in Applied Computing (Concentration: Artificial Intelligence) <br>
     <b>GPA</b>: 4.0 / 4.0  

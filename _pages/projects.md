@@ -187,7 +187,7 @@ Some artwork I (?) created with generative AI tools like <a href="https://github
   <div class="col-sm-8">
     I wrote a 2D Newtonian gravity simulator, to learn basic numerical simulation and how to use JIT compilation to speed up Python code.
     <br><br>
-    <a href="https://gist.github.com/akasharidas/4e5680acc60403d9c663c0c47b400a7b" style="border: 1px solid black; padding: 5px 20px;" class="btn btn-sm z-depth-1" role="button">Code</a>
+    <a href="https://github.com/akasharidas/weekend-projects/tree/master/gravity" style="border: 1px solid black; padding: 5px 20px;" class="btn btn-sm z-depth-1" role="button">Code</a>
   </div>
 </div>
 </div>
@@ -207,8 +207,7 @@ Some artwork I (?) created with generative AI tools like <a href="https://github
     I followed the <a href="https://raytracing.github.io/books/RayTracingInOneWeekend.html">Ray Tracing in One Weekend book</a>, to learn the basics of ray-traced rendering and to pick up C++.
         <br><br>
     <a href="{{site.baseurl}}/assets/img/final_scene.png" style="border: 1px solid black; padding: 5px 20px;" class="btn btn-sm z-depth-1" role="button">Result</a>
-    <a href="{{site.baseurl}}/assets/img/simple_scene.png" style="border: 1px solid black; padding: 5px 20px;" class="btn btn-sm z-depth-1" role="button">Result</a>
-    <a href="{{site.baseurl}}/assets/img/grey_ball.jpg" style="border: 1px solid black; padding: 5px 20px;" class="btn btn-sm z-depth-1" role="button">Result</a>
+    <a href="https://github.com/akasharidas/weekend-projects/tree/master/ray-tracing" style="border: 1px solid black; padding: 5px 20px;" class="btn btn-sm z-depth-1" role="button">Code</a>
   </div>
 </div>
 </div>
@@ -226,6 +225,8 @@ Some artwork I (?) created with generative AI tools like <a href="https://github
   </div>
   <div class="col-sm-8">
     I recreated some of the plots on <a href="https://www.datawrapper.de/">datawrapper.de</a>, to learn what it takes to make professional publication-quality charts using everyday open-source plotting tools in Python.
+        <br><br>
+    <a href="https://github.com/akasharidas/weekend-projects/tree/master/making-pretty-plots" style="border: 1px solid black; padding: 5px 20px;" class="btn btn-sm z-depth-1" role="button">Code</a>
   </div>
 </div>
 </div>

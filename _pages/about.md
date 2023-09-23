@@ -28,7 +28,7 @@ I have experience applying machine learning to problems in computer vision, 3D g
   <div class="contact-icons">
     <a href="https://www.iitm.ac.in/"><img src="{{site.baseurl}}/assets/img/IITM.png" width="15%" class="margined-icon"></a>
     <a href="https://web.cs.toronto.edu/"><img src="{{site.baseurl}}/assets/img/UofT.png" width="25%" class="margined-icon"></a>
-    <a href="https://www.amd.com/en.html"><img src="{{site.baseurl}}/assets/img/AMD_Logo.png" width="25%" class="margined-icon"></a>
+    <a href="https://www.amd.com/en.html"><img src="{{site.baseurl}}/assets/img/AMD_logo.png" width="25%" class="margined-icon"></a>
   </div>
 </div>
 <br>
